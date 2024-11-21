@@ -11,7 +11,7 @@ else:
     print("your answer is wrong.")
 
 
-country = input("WHAT IS THE CAPITAL IF ENGLAND? ")
+country = input("WHAT IS THE CAPITAL OF ENGLAND? ")
 if country.lower() == "London":
     print("your answer is correct!")
 else:
